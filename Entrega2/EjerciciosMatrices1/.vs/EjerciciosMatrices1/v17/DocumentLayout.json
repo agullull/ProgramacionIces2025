@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbelt\\OneDrive\\Documentos\\GitHub\\programacionICES\\Programaci\u00F3n\\Entrega2\\EjerciciosMatrices1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590A7E3B-3095-4BFC-8AA9-DEA2AE7B5451}|EjerciciosMatrices1\\EjerciciosMatrices1.csproj|c:\\users\\mbelt\\onedrive\\documentos\\github\\programacionices\\programaci\u00F3n\\entrega2\\ejerciciosmatrices1\\ejerciciosmatrices1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590A7E3B-3095-4BFC-8AA9-DEA2AE7B5451}|EjerciciosMatrices1\\EjerciciosMatrices1.csproj|solutionrelative:ejerciciosmatrices1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbelt\\OneDrive\\Documentos\\GitHub\\programacionICES\\Programaci\u00F3n\\Entrega2\\EjerciciosMatrices1\\EjerciciosMatrices1\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosMatrices1\\Program.cs",
+              "ToolTip": "C:\\Users\\mbelt\\OneDrive\\Documentos\\GitHub\\programacionICES\\Programaci\u00F3n\\Entrega2\\EjerciciosMatrices1\\EjerciciosMatrices1\\Program.cs",
+              "RelativeToolTip": "EjerciciosMatrices1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:21:58.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

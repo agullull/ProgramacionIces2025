@@ -1,0 +1,15 @@
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\bin\Debug\net8.0\Ejerciciolistas1.exe
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\bin\Debug\net8.0\Ejerciciolistas1.deps.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\bin\Debug\net8.0\Ejerciciolistas1.runtimeconfig.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\bin\Debug\net8.0\Ejerciciolistas1.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\bin\Debug\net8.0\Ejerciciolistas1.pdb
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.AssemblyInfoInputs.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.AssemblyInfo.cs
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.csproj.CoreCompileInputs.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.sourcelink.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\refint\Ejerciciolistas1.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.pdb
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\Ejerciciolistas1.genruntimeconfig.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\Ejerciciolistas1\Ejerciciolistas1\obj\Debug\net8.0\ref\Ejerciciolistas1.dll

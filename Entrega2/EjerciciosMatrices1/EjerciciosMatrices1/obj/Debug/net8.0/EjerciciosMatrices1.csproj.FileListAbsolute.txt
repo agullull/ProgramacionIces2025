@@ -1,0 +1,15 @@
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\bin\Debug\net8.0\EjerciciosMatrices1.exe
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\bin\Debug\net8.0\EjerciciosMatrices1.deps.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\bin\Debug\net8.0\EjerciciosMatrices1.runtimeconfig.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\bin\Debug\net8.0\EjerciciosMatrices1.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\bin\Debug\net8.0\EjerciciosMatrices1.pdb
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.AssemblyInfoInputs.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.AssemblyInfo.cs
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.csproj.CoreCompileInputs.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.sourcelink.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\refint\EjerciciosMatrices1.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.pdb
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\EjerciciosMatrices1.genruntimeconfig.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosMatrices1\EjerciciosMatrices1\obj\Debug\net8.0\ref\EjerciciosMatrices1.dll

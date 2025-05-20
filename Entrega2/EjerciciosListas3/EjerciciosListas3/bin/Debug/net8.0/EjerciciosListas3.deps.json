@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EjerciciosListas3/1.0.0": {
+        "runtime": {
+          "EjerciciosListas3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjerciciosListas3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

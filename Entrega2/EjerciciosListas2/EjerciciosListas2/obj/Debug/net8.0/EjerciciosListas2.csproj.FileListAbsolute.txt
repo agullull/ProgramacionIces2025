@@ -1,0 +1,15 @@
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\bin\Debug\net8.0\EjerciciosListas2.exe
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\bin\Debug\net8.0\EjerciciosListas2.deps.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\bin\Debug\net8.0\EjerciciosListas2.runtimeconfig.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\bin\Debug\net8.0\EjerciciosListas2.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\bin\Debug\net8.0\EjerciciosListas2.pdb
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.AssemblyInfoInputs.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.AssemblyInfo.cs
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.csproj.CoreCompileInputs.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.sourcelink.json
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\refint\EjerciciosListas2.dll
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.pdb
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\EjerciciosListas2.genruntimeconfig.cache
+C:\Users\mbelt\OneDrive\Documentos\GitHub\programacionICES\Programación\Entrega2\EjerciciosListas2\EjerciciosListas2\obj\Debug\net8.0\ref\EjerciciosListas2.dll
